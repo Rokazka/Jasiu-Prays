@@ -12,12 +12,12 @@ const durationEl = document.querySelector('.duration');
 
 const songs = [{
         name: 'song-1',
-        displayName: 'Morning Pray',
+        displayName: 'Morning Prayer',
         artist: 'Guru Nanak',
     },
     {
         name: 'song-2',
-        displayName: 'Wieczorna modlitwa',
+        displayName: 'Evening Prayer',
         artist: 'Guru Nanak',
     },
 ];
